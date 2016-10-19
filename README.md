@@ -5,16 +5,6 @@ Start making your contributions here as discussed in the meeting .
 Happy Coding !
 
 
-# Library-Portal
-ACE e-Library 
-
-Start making your contributions here as discussed in the meeting . 
-Happy Coding !
-
-
-# Vconnect
-This is VIPS college website
-
 ##Getting Started 
 
 #Step 1 :
