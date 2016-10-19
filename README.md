@@ -99,9 +99,9 @@ Your command line might freeze after when you try to install Django. If this hap
     $mkdir aceLibraryProject
     $cd aceLibraryProject
     $git init
-    $git remote add origin https://github.com/ACE-VSIT/Library-Portal.git
+    $git remote add origin https://github.com/<your username>/Library-Portal.git
     $git pull
-    $git checkout master
+    $git checkout development
 
 # Run The Development Server 
     $python manage.py runserver
